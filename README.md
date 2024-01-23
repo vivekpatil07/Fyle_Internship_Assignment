@@ -1,13 +1,12 @@
-# Fyle-Web-Development-Internship-challenge
+# Fyle-Internship-Assignment
+# Web-Development-Internship
 Design a website that displays the public Github repositories belonging to any specific user.
 
-For example: `johnpapa` is a valid Github username
+For example: `vivek` is a valid Github username
 ### References & Requirements
 
 - API Documentation https://docs.github.com/en/rest/reference
 - The below image represents a `topic` of a particular repository, one repository could have multiple `topics`
-    
-    !https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7743fc64-964a-4fb2-a231-d646d2d88e0a/Screenshot_2021-05-17_at_3.11.10_AM.png
     
 - Pagination has to be `server`-side
     - By default, show `10` repositories per page
